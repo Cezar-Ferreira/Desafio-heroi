@@ -29,7 +29,6 @@ class Heroi {
     }
 }
 
-// Exemplo de utilização da classe
 const heroi1 = new Heroi('Herói1', 25, 'mago');
 heroi1.atacar(); // Saída: O mago atacou usando magia
 
